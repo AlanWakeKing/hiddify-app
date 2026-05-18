@@ -1,17 +1,17 @@
 import 'dart:async';
 
 import 'package:dio/dio.dart';
-import 'package:hiddify/core/haptic/haptic_service.dart';
-import 'package:hiddify/core/preferences/general_preferences.dart';
-import 'package:hiddify/core/utils/throttler.dart';
-import 'package:hiddify/features/connection/notifier/connection_notifier.dart';
-import 'package:hiddify/features/proxy/data/proxy_data_providers.dart';
-import 'package:hiddify/features/proxy/model/ip_info_entity.dart' as oldipinfo;
-import 'package:hiddify/features/proxy/model/proxy_failure.dart';
-import 'package:hiddify/hiddifycore/generated/v2/hcore/hcore.pb.dart';
-import 'package:hiddify/hiddifycore/init_signal.dart';
-import 'package:hiddify/utils/riverpod_utils.dart';
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/core/haptic/haptic_service.dart';
+import 'package:vpn24to7/core/preferences/general_preferences.dart';
+import 'package:vpn24to7/core/utils/throttler.dart';
+import 'package:vpn24to7/features/connection/notifier/connection_notifier.dart';
+import 'package:vpn24to7/features/proxy/data/proxy_data_providers.dart';
+import 'package:vpn24to7/features/proxy/model/ip_info_entity.dart' as oldipinfo;
+import 'package:vpn24to7/features/proxy/model/proxy_failure.dart';
+import 'package:vpn24to7/hiddifycore/generated/v2/hcore/hcore.pb.dart';
+import 'package:vpn24to7/hiddifycore/init_signal.dart';
+import 'package:vpn24to7/utils/riverpod_utils.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 part 'active_proxy_notifier.g.dart';

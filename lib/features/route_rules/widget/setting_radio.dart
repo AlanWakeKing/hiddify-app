@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hiddify/core/router/dialog/dialog_notifier.dart';
+import 'package:vpn24to7/core/router/dialog/dialog_notifier.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class SettingRadio<T> extends ConsumerWidget {

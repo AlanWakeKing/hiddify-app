@@ -1,6 +1,6 @@
 import 'package:app_links/app_links.dart';
-import 'package:hiddify/core/router/deep_linking/url_protocol/api.dart';
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/core/router/deep_linking/url_protocol/api.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 

@@ -1,4 +1,4 @@
-import 'package:hiddify/utils/sentry_utils.dart';
+import 'package:vpn24to7/utils/sentry_utils.dart';
 import 'package:loggy/loggy.dart';
 import 'package:sentry_flutter/sentry_flutter.dart';
 

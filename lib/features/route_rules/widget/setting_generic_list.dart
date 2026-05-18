@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:hiddify/core/localization/translations.dart';
-import 'package:hiddify/features/route_rules/widget/setting_detail_chips.dart';
+import 'package:vpn24to7/core/localization/translations.dart';
+import 'package:vpn24to7/features/route_rules/widget/setting_detail_chips.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class SettingGenericList<T extends Object> extends ConsumerWidget {

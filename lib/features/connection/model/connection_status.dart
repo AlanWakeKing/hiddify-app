@@ -1,6 +1,6 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:hiddify/core/localization/translations.dart';
-import 'package:hiddify/features/connection/model/connection_failure.dart';
+import 'package:vpn24to7/core/localization/translations.dart';
+import 'package:vpn24to7/features/connection/model/connection_failure.dart';
 
 part 'connection_status.freezed.dart';
 

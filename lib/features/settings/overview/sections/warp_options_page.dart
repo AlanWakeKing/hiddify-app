@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:hiddify/core/localization/translations.dart';
-import 'package:hiddify/core/model/optional_range.dart';
-import 'package:hiddify/features/settings/data/config_option_repository.dart';
-import 'package:hiddify/features/settings/notifier/warp_option/warp_option_notifier.dart';
-import 'package:hiddify/features/settings/widget/preference_tile.dart';
-import 'package:hiddify/singbox/model/singbox_config_enum.dart';
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/core/localization/translations.dart';
+import 'package:vpn24to7/core/model/optional_range.dart';
+import 'package:vpn24to7/features/settings/data/config_option_repository.dart';
+import 'package:vpn24to7/features/settings/notifier/warp_option/warp_option_notifier.dart';
+import 'package:vpn24to7/features/settings/widget/preference_tile.dart';
+import 'package:vpn24to7/singbox/model/singbox_config_enum.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class WarpOptionsPage extends HookConsumerWidget {

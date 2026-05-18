@@ -1,4 +1,4 @@
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class PreferencesMigration with InfraLogger {

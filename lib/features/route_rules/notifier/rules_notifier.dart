@@ -4,11 +4,11 @@ import 'dart:io';
 import 'package:dartx/dartx_io.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/services.dart';
-import 'package:hiddify/core/directories/directories_provider.dart';
-import 'package:hiddify/core/localization/translations.dart';
-import 'package:hiddify/core/notification/in_app_notification_controller.dart';
-import 'package:hiddify/hiddifycore/generated/v2/config/route_rule.pb.dart';
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/core/directories/directories_provider.dart';
+import 'package:vpn24to7/core/localization/translations.dart';
+import 'package:vpn24to7/core/notification/in_app_notification_controller.dart';
+import 'package:vpn24to7/hiddifycore/generated/v2/config/route_rule.pb.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 part 'rules_notifier.g.dart';

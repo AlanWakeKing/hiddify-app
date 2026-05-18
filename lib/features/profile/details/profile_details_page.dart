@@ -6,14 +6,14 @@ import 'package:flutter/services.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
-import 'package:hiddify/core/localization/translations.dart';
-import 'package:hiddify/core/model/constants.dart';
-import 'package:hiddify/core/model/failures.dart';
-import 'package:hiddify/core/notification/in_app_notification_controller.dart';
-import 'package:hiddify/features/profile/details/json_editor.dart';
-import 'package:hiddify/features/profile/details/profile_details_notifier.dart';
-import 'package:hiddify/features/profile/model/profile_entity.dart';
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/core/localization/translations.dart';
+import 'package:vpn24to7/core/model/constants.dart';
+import 'package:vpn24to7/core/model/failures.dart';
+import 'package:vpn24to7/core/notification/in_app_notification_controller.dart';
+import 'package:vpn24to7/features/profile/details/json_editor.dart';
+import 'package:vpn24to7/features/profile/details/profile_details_notifier.dart';
+import 'package:vpn24to7/features/profile/model/profile_entity.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class ProfileDetailsPage extends HookConsumerWidget with PresLogger {

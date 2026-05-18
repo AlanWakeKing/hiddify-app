@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
-import 'package:hiddify/core/widget/skeleton_widget.dart';
+import 'package:vpn24to7/core/widget/skeleton_widget.dart';
 
 class ShimmerSkeleton extends StatelessWidget {
   const ShimmerSkeleton({

@@ -1,8 +1,8 @@
 import 'package:drift/drift.dart';
 import 'package:fpdart/fpdart.dart';
-import 'package:hiddify/core/db/db.dart';
-import 'package:hiddify/features/profile/model/profile_sort_enum.dart';
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/core/db/db.dart';
+import 'package:vpn24to7/features/profile/model/profile_sort_enum.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:loggy/loggy.dart';
 
 part 'profile_data_source.g.dart';

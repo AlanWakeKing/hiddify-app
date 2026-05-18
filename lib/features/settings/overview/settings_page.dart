@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
-import 'package:hiddify/core/localization/translations.dart';
-import 'package:hiddify/core/router/dialog/dialog_notifier.dart';
-import 'package:hiddify/core/router/go_router/helper/active_breakpoint_notifier.dart';
-import 'package:hiddify/features/settings/notifier/config_option/config_option_notifier.dart';
-import 'package:hiddify/features/settings/notifier/reset_tunnel/reset_tunnel_notifier.dart';
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/core/localization/translations.dart';
+import 'package:vpn24to7/core/router/dialog/dialog_notifier.dart';
+import 'package:vpn24to7/core/router/go_router/helper/active_breakpoint_notifier.dart';
+import 'package:vpn24to7/features/settings/notifier/config_option/config_option_notifier.dart';
+import 'package:vpn24to7/features/settings/notifier/reset_tunnel/reset_tunnel_notifier.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 enum ConfigOptionSection {

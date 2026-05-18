@@ -1,11 +1,11 @@
 import 'package:dio/dio.dart';
-import 'package:hiddify/core/http_client/dio_http_client.dart';
-import 'package:hiddify/core/http_client/http_client_provider.dart';
-import 'package:hiddify/core/model/region.dart';
-import 'package:hiddify/core/preferences/general_preferences.dart';
-import 'package:hiddify/features/per_app_proxy/model/per_app_proxy_mode.dart';
-import 'package:hiddify/features/settings/data/config_option_repository.dart';
-import 'package:hiddify/utils/utils.dart';
+import 'package:vpn24to7/core/http_client/dio_http_client.dart';
+import 'package:vpn24to7/core/http_client/http_client_provider.dart';
+import 'package:vpn24to7/core/model/region.dart';
+import 'package:vpn24to7/core/preferences/general_preferences.dart';
+import 'package:vpn24to7/features/per_app_proxy/model/per_app_proxy_mode.dart';
+import 'package:vpn24to7/features/settings/data/config_option_repository.dart';
+import 'package:vpn24to7/utils/utils.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 enum AutoSelectionResult {

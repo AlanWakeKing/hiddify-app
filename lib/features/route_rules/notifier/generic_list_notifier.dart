@@ -1,5 +1,5 @@
-import 'package:hiddify/core/notification/in_app_notification_controller.dart';
-import 'package:hiddify/features/route_rules/notifier/rule_notifier.dart';
+import 'package:vpn24to7/core/notification/in_app_notification_controller.dart';
+import 'package:vpn24to7/features/route_rules/notifier/rule_notifier.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 part 'generic_list_notifier.g.dart';
